@@ -1,6 +1,6 @@
 # JavaScript Function Short Assignment
 
-## **Project Overview**
+## **Assignment Overview**
 
 This short assignment is aiming to test your basic knowledge of JavaScript functions by manipulating the given constant:
 
@@ -25,8 +25,6 @@ const randomSentences = [
 
 - Sort the array in ascending order based on the length of each sentence.
 
----
-
 ## **Question 2**
 
 - Change the first letter of each sentence to uppercase.
@@ -35,4 +33,5 @@ const randomSentences = [
 
 ## **Expected Output**
 
+![expected_output](https://github.com/user-attachments/assets/74f58185-ea55-4c81-9d93-749749561b00)
 ---
