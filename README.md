@@ -4,7 +4,7 @@
 
 This short assignment is aiming to test your basic knowledge of JavaScript functions by manipulating the given constant:
 
-```bash
+```javascript
 const randomSentences = [
   "elephant stomps through the jungle .",
   "a musician composes a symphony elegantly.",
